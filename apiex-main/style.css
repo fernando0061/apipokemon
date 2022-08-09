@@ -1,0 +1,21 @@
+#grupo{
+    width: 100%;
+    align-items: center;
+    justify-content: right;
+}
+
+h3{
+    width: 100%;
+    text-align: center;  
+}
+
+body{
+    background-image: url(/image/pok.jpg);
+    height:auto;
+    width:auto;
+    text-align: center;
+}
+
+h1{
+    background-color: brown;
+}

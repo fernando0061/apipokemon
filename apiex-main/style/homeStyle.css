@@ -1,0 +1,12 @@
+body{
+    background-image: url(/image/pok.jpg);
+    height:auto;
+    width:auto;
+    text-align: center;
+}
+
+p{
+    text-align:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px
+}
